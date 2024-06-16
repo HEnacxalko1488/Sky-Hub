@@ -1,0 +1,24 @@
+local place = game.PlaceId
+if place == 6839171747 then -- Doors game script
+loadstring(game:HttpGet("https://pastebin.com/raw/sBgNZPQ3"))()
+end
+
+if place == 6516141723 then -- Doors lobby script 
+loadstring(game:HttpGet("https://pastebin.com/raw/S8LApYAK"))()
+end
+
+if place == 10549820578 then -- Doors Super hard mode 2023 script
+loadstring(game:HttpGet("https://pastebin.com/raw/pgRaTgPy"))()
+end
+
+if place == 142823291 then -- Murder Mystery 2 script
+loadstring(game:HttpGet("https://pastebin.com/raw/bSrRAZzt"))()
+end
+
+if place == 4924922222 then -- Brookhaven RP script
+loadstring(game:HttpGet("https://pastebin.com/raw/mq3un69R"))()
+end
+
+if place == 189707 then -- Natural Disaster script / ND script
+loadstring(game:HttpGet("https://pastebin.com/raw/bMWsve0N"))()
+end
